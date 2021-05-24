@@ -1,0 +1,164 @@
+{
+  "books": [{
+      "id": 1,
+      "bookName": "A Storm of Swords",
+      "bookId": "789",
+      "author": "George R R Martin",
+      "publisher": "Voyager Book",
+      "date": {
+        "issueDate": "Mon Apr 05 2021 00:00:00 GMT+0530 (India Standard Time)",
+        "returnDate": "Mon Apr 12 2021 00:00:00 GMT+0530 (India Standard Time)"
+      }
+    },
+    {
+      "id": 2,
+      "bookName": "The last Don",
+      "bookId": "456",
+      "author": "Mario Puzo",
+      "publisher": "Random house",
+      "date": {
+        "issueDate": "Tue Apr 06 2021 00:00:00 GMT+0530 (India Standard Time)",
+        "returnDate": "Tue Apr 28 2021 00:00:00 GMT+0530 (India Standard Time)"
+      }
+    },
+    {
+      "id": 3,
+      "bookName": "Omerta",
+      "bookId": "111",
+      "author": "Mario Puzo",
+      "publisher": "Random house",
+      "date": {
+        "issueDate": "Tue Apr 06 2021 00:00:00 GMT+0530 (India Standard Time)",
+        "returnDate": null
+      }
+    },
+    {
+      "id": 4,
+      "bookName": "The family",
+      "bookId": "120",
+      "author": "Mario Puro",
+      "publisher": "Regan Books",
+      "date": {
+        "issueDate": "Tue May 04 2021 00:00:00 GMT+0530 (India Standard Time)",
+        "returnDate": ""
+      }
+    },
+    {
+      "id": 5,
+      "bookName": "Harry Potter and the half blood prince",
+      "author": "J K Rowling",
+      "bookId": "010",
+      "publisher": "Scholastic Corporation",
+      "date": {
+        "issueDate": "Fri May 07 2021 00:00:00 GMT+0530 (India Standard Time)",
+        "returnDate": "Fri May 21 2021 00:00:00 GMT+0530 (India Standard Time)"
+      }
+    },
+    {
+      "id": 6,
+      "bookName": "The Bourne Ultimatum",
+      "author": "Robert Ludlum",
+      "bookId": "001",
+      "publisher": "Random House",
+      "date": {
+        "issueDate": "Wed May 19 2021 00:00:00 GMT+0530 (India Standard Time)",
+        "returnDate": null
+      }
+    },
+    {
+      "id": 7,
+      "bookName": "The Bourne Identity",
+      "author": "Robert Ludlum",
+      "bookId": "048",
+      "publisher": "Richard Marek",
+      "date": {
+        "issueDate": "Mon May 10 2021 00:00:00 GMT+0530 (India Standard Time)",
+        "returnDate": null
+      }
+    },
+    {
+      "id": 8,
+      "bookName": "The Alchemist",
+      "author": "Paulo Cohelo",
+      "bookId": "090",
+      "publisher": "Scholastic Corporation",
+      "date": {
+        "issueDate": "Tue May 11 2021 00:00:00 GMT+0530 (India Standard Time)",
+        "returnDate": ""
+      }
+    },
+    {
+      "id": 9,
+      "bookName": "2 States",
+      "author": "Chethan Bhagat",
+      "bookId": "032",
+      "publisher": "Rupa Publications Pvt. Ltd",
+      "date": {
+        "issueDate": "Sun Apr 04 2021 00:00:00 GMT+0530 (India Standard Time)",
+        "returnDate": "Sun Apr 18 2021 00:00:00 GMT+0530 (India Standard Time)"
+      }
+    },
+    {
+      "id": 10,
+      "bookName": "Malgudi days",
+      "author": "R K Narayan",
+      "bookId": "022",
+      "publisher": "Indian Thought Publications",
+      "date": {
+        "issueDate": "Wed May 14 2021 00:00:00 GMT+0530 (India Standard Time)",
+        "returnDate": null
+      }
+    },
+    {
+      "id": 11,
+      "bookName": "harry potter and the order of phoenix",
+      "author": "J K Rowling",
+      "bookId": "034",
+      "publisher": "Scholastic Corporation",
+      "date": {
+        "returnDate": null,
+        "issueDate": null
+      }
+    },
+    {
+      "id": 12,
+      "bookName": "harry potter and the prisoner of askaban",
+      "author": "J K Rowling",
+      "bookId": "067",
+      "publisher": "Scholastic Corporation",
+      "date": {
+        "issueDate": "Tue May 11 2021 00:00:00 GMT+0530 (India Standard Time)",
+        "returnDate": "Tue May 25 2021 00:00:00 GMT+0530 (India Standard Time)"
+      }
+    },
+    {
+      "bookName": "harry potter and the deathly hollows",
+      "author": "J K Rowling",
+      "bookId": "042",
+      "publisher": "Scholastic Corporation",
+      "date": {
+        "issueDate": "Mon Apr 05 2021 00:00:00 GMT+0530 (India Standard Time)",
+        "returnDate": "Mon Apr 12 2021 00:00:00 GMT+0530 (India Standard Time)"
+      },
+      "id": 13
+    },
+    {
+      "bookName": "A Game of Thrones",
+      "author": "George R R Martin",
+      "bookId": "012",
+      "publisher": "Voyager Books",
+      "date": {
+        "issueDate": "Mon Apr 05 2021 00:00:00 GMT+0530 (India Standard Time)",
+        "returnDate": null
+      },
+      "id": 14
+    },
+    {
+      "bookName": "A Clash of Kings",
+      "author": "George R R Martin",
+      "bookId": "012",
+      "publisher": "Voyager Books",
+      "id": 15
+    }
+  ]
+}
